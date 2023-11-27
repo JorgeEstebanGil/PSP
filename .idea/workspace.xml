@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53d160e5-552f-4fd9-8484-317e87d28ae0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/01-Variable Assignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/01-Variable Assignment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/02-Strings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/02-Strings.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/03-Print Formatting with Strings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/03-Print Formatting with Strings.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/04-Lists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/04-Lists.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/05-Dictionaries.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/05-Dictionaries.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/06-Tuples.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/06-Tuples.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/07-Sets and Booleans.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/07-Sets and Booleans.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/08-Files.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/08-Files.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/00-Python Object and Data Structure Basics/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/01-Python Comparison Operators/01-Comparison Operators.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/01-Python Comparison Operators/01-Comparison Operators.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/01-Python Comparison Operators/02-Chained Comparison Operators.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/01-Python Comparison Operators/02-Chained Comparison Operators.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/02-Python Statements/01-Introduction to Python Statements.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/02-Python Statements/01-Introduction to Python Statements.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/02-Python Statements/04-while Loops.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/02-Python Statements/04-while Loops.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/02-Python Statements/05-Useful-Operators.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/02-Python Statements/05-Useful-Operators.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/02-Python Statements/07-Statements Assessment Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/02-Python Statements/07-Statements Assessment Test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/02-Python Statements/08-Statements Assessment Test - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/02-Python Statements/08-Statements Assessment Test - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/02-Python Statements/09-Guessing Game Challenge.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/02-Python Statements/09-Guessing Game Challenge.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/01-Methods.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/01-Methods.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/02-Functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/02-Functions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/03-Function Practice Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/03-Function Practice Exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/04-Function Practice Exercises - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/04-Function Practice Exercises - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/05-Lambda-Expressions-Map-and-Filter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/05-Lambda-Expressions-Map-and-Filter.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/06-Nested Statements and Scope.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/06-Nested Statements and Scope.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/07-args and kwargs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/07-args and kwargs.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/08-Functions and Methods Homework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/08-Functions and Methods Homework.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/09-Functions and Methods Homework - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/03-Methods and Functions/09-Functions and Methods Homework - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/04-Milestone Project - 1/01-Milestone Project 1 - Assignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/04-Milestone Project - 1/01-Milestone Project 1 - Assignment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/04-Milestone Project - 1/02-Milestone Project 1 - Walkthrough Steps Workbook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/04-Milestone Project - 1/02-Milestone Project 1 - Walkthrough Steps Workbook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/04-Milestone Project - 1/03-Milestone Project 1 - Complete Walkthrough Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/04-Milestone Project - 1/03-Milestone Project 1 - Complete Walkthrough Solution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/04-Milestone Project - 1/04-OPTIONAL -Milestone Project 1 - Advanced Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/04-Milestone Project - 1/04-OPTIONAL -Milestone Project 1 - Advanced Solution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/05-Object Oriented Programming/01-Object Oriented Programming.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/05-Object Oriented Programming/01-Object Oriented Programming.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/05-Object Oriented Programming/02-Object Oriented Programming Homework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/05-Object Oriented Programming/02-Object Oriented Programming Homework.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/05-Object Oriented Programming/03-Object Oriented Programming Homework - Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/05-Object Oriented Programming/03-Object Oriented Programming Homework - Solution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/05-Object Oriented Programming/04-OOP Challenge.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/05-Object Oriented Programming/04-OOP Challenge.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/05-Object Oriented Programming/05-OOP Challenge - Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/05-Object Oriented Programming/05-OOP Challenge - Solution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/SubPackage/mysubscript(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/SubPackage/mysubscript(1).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/SubPackage/mysubscript(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/SubPackage/mysubscript(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/SubPackage/mysubscript.py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/SubPackage/mysubscript.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/some_main_script(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/some_main_script(1).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/some_main_script(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/some_main_script(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/some_main_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/some_main_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/mymodule(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/mymodule(1).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/mymodule(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/mymodule(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/mymodule.py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/mymodule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/myprogram(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/myprogram(1).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/myprogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/00-Modules_and_Packages/myprogram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/01-Name_and_Main/Explanation(1).txt" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/01-Name_and_Main/Explanation(1).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/01-Name_and_Main/Explanation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/01-Name_and_Main/Explanation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/01-Name_and_Main/one(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/01-Name_and_Main/one(1).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/01-Name_and_Main/one(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/01-Name_and_Main/one(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/01-Name_and_Main/one.py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/01-Name_and_Main/one.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/01-Name_and_Main/two(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/01-Name_and_Main/two(1).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/01-Name_and_Main/two.py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/01-Name_and_Main/two.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/file1.py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/file1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/file2.py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/file2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/file3.py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/06-Modules and Packages/file3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/01-Errors and Exceptions Handling(1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/01-Errors and Exceptions Handling(1).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/01-Errors and Exceptions Handling(2).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/01-Errors and Exceptions Handling(2).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/01-Errors and Exceptions Handling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/01-Errors and Exceptions Handling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/02-Errors and Exceptions Homework(1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/02-Errors and Exceptions Homework(1).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/02-Errors and Exceptions Homework(2).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/02-Errors and Exceptions Homework(2).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/02-Errors and Exceptions Homework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/02-Errors and Exceptions Homework.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/03-Errors and Exceptions Homework - Solution(1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/03-Errors and Exceptions Homework - Solution(1).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/03-Errors and Exceptions Homework - Solution(2).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/03-Errors and Exceptions Homework - Solution(2).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/03-Errors and Exceptions Homework - Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/03-Errors and Exceptions Homework - Solution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/04-Unit Testing(1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/04-Unit Testing(1).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/04-Unit Testing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/04-Unit Testing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/cap.py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/cap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/simple1.py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/simple1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/simple2.py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/simple2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/test_cap.py" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/07-Errors and Exception Handling/test_cap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/08-Milestone Project - 2/01-Milestone Project 2 - Assignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/08-Milestone Project - 2/01-Milestone Project 2 - Assignment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/08-Milestone Project - 2/02-Milestone Project 2 - Walkthrough Steps Workbook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/08-Milestone Project - 2/02-Milestone Project 2 - Walkthrough Steps Workbook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/08-Milestone Project - 2/03-Milestone Project 2 - Complete Walkthrough Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/08-Milestone Project - 2/03-Milestone Project 2 - Complete Walkthrough Solution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/08-Milestone Project - 2/04-Milestone Project 2 - Solution Code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/08-Milestone Project - 2/04-Milestone Project 2 - Solution Code.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/01-Map.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/01-Map.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/02-Reduce.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/02-Reduce.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/03-Filter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/03-Filter.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/04-Zip.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/04-Zip.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/05-Enumerate.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/05-Enumerate.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/06-all() and any().ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/06-all() and any().ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/07-Complex.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/07-Complex.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/08-Built-in Functions Assessment Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/08-Built-in Functions Assessment Test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/09-Built-in Functions Assessment Test - Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/09-Built-in Functions/09-Built-in Functions Assessment Test - Solution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/10-Python Decorators/01-Decorators.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/10-Python Decorators/01-Decorators.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/10-Python Decorators/02-Decorators Homework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/10-Python Decorators/02-Decorators Homework.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/11-Python Generators/01-Iterators and Generators.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/11-Python Generators/01-Iterators and Generators.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/11-Python Generators/02-Iterators and Generators Homework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/11-Python Generators/02-Iterators and Generators Homework.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/11-Python Generators/03-Iterators and Generators Homework - Solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/11-Python Generators/03-Iterators and Generators Homework - Solution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/12-Final Capstone Python Project/01-Final Capstone Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/12-Final Capstone Python Project/01-Final Capstone Project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/12-Final Capstone Python Project/02-Final Capstone Project Ideas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/12-Final Capstone Python Project/02-Final Capstone Project Ideas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/12-Final Capstone Python Project/03-Final Capstone Suggested Walkthrough.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/12-Final Capstone Python Project/03-Final Capstone Suggested Walkthrough.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/12-Final Capstone Python Project/Projects-Solutions/Solution Links.md" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/12-Final Capstone Python Project/Projects-Solutions/Solution Links.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/13-Advanced Python Modules/01-Collections Module.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/13-Advanced Python Modules/01-Collections Module.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/13-Advanced Python Modules/02-Datetime.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/13-Advanced Python Modules/02-Datetime.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/13-Advanced Python Modules/03-Python Debugger (pdb).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/13-Advanced Python Modules/03-Python Debugger (pdb).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/13-Advanced Python Modules/05-Regular Expressions - re.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/13-Advanced Python Modules/05-Regular Expressions - re.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/13-Advanced Python Modules/06-StringIO.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/13-Advanced Python Modules/06-StringIO.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/01-Advanced Numbers.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/01-Advanced Numbers.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/02-Advanced Strings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/02-Advanced Strings.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/03-Advanced Sets.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/03-Advanced Sets.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/04-Advanced Dictionaries.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/04-Advanced Dictionaries.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/05-Advanced Lists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/05-Advanced Lists.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/06-Advanced Python Objects Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/06-Advanced Python Objects Test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/07-Advanced Python Objects Test - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/07-Advanced Python Objects Test - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/08-BONUS - With Statement Context Managers.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/14-Advanced Python Objects and Data Structures/08-BONUS - With Statement Context Managers.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/15-Advanced OOP/01-Advanced Object Oriented Programming.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/15-Advanced OOP/01-Advanced Object Oriented Programming.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0 Python/FAQ.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T0 Python/FAQ.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/01-Multiprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T1/01-Multiprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/2_ParallelMechanism/0_process.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T1/2_ParallelMechanism/0_process.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/2_ParallelMechanism/0_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1/2_ParallelMechanism/0_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/2_ParallelMechanism/1_syncProcesses.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T1/2_ParallelMechanism/1_syncProcesses.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/2_ParallelMechanism/1_syncProcesses.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1/2_ParallelMechanism/1_syncProcesses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/2_ParallelMechanism/2_pool.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T1/2_ParallelMechanism/2_pool.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/2_ParallelMechanism/2_pool.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1/2_ParallelMechanism/2_pool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/3_Executor_process_csv/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/T1/3_Executor_process_csv/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/3_Executor_process_csv/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1/3_Executor_process_csv/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/3_Executor_process_csv/services/csv_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1/3_Executor_process_csv/services/csv_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/3_Executor_process_csv/services/data_income.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1/3_Executor_process_csv/services/data_income.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/3_Executor_process_csv/services/income.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1/3_Executor_process_csv/services/income.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/3_Executor_process_csv/services/income_processor_concurrent_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1/3_Executor_process_csv/services/income_processor_concurrent_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/3_Executor_process_csv/services/income_processor_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1/3_Executor_process_csv/services/income_processor_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T1/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/T1/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/01-Multithreading.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T2/01-Multithreading.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/0_threads.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T2/0_threads.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/0_threads.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/0_threads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/1_ParallelMechanism/condition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T2/1_ParallelMechanism/condition.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/1_ParallelMechanism/condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/1_ParallelMechanism/condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/1_ParallelMechanism/event.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T2/1_ParallelMechanism/event.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/1_ParallelMechanism/event.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/1_ParallelMechanism/event.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/1_ParallelMechanism/lock.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T2/1_ParallelMechanism/lock.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/1_ParallelMechanism/lock.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/1_ParallelMechanism/lock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/1_ParallelMechanism/queue.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T2/1_ParallelMechanism/queue.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/1_ParallelMechanism/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/1_ParallelMechanism/queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/1_ParallelMechanism/rlock.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T2/1_ParallelMechanism/rlock.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/1_ParallelMechanism/rlock.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/1_ParallelMechanism/rlock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/1_ParallelMechanism/tutorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/T2/1_ParallelMechanism/tutorial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/1_threads.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T2/1_threads.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/1_threads.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/1_threads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/2_pokeapi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/2_pokeapi/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/2_pokeapi/pokeapi_service/pokeapi_rest_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/2_pokeapi/pokeapi_service/pokeapi_rest_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/2_pokeapi/pokeapi_service/pokeapi_secuential_rest_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/2_pokeapi/pokeapi_service/pokeapi_secuential_rest_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/2_pokeapi/pokeapi_service/pokeapi_threaded_rest_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/2_pokeapi/pokeapi_service/pokeapi_threaded_rest_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/2_pokeapi/pokeapi_service/pokemon.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/2_pokeapi/pokeapi_service/pokemon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/2_sleeper_callable.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T2/2_sleeper_callable.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/2_sleeper_callable.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/2_sleeper_callable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/3_Natural-Threading-Problems/dining-philosophers.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T2/3_Natural-Threading-Problems/dining-philosophers.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/3_Natural-Threading-Problems/dining-philosophers.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/3_Natural-Threading-Problems/dining-philosophers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/3_sleeper_override.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T2/3_sleeper_override.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/3_sleeper_override.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/3_sleeper_override.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/4_statuschecker.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T2/4_statuschecker.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/4_statuschecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/4_statuschecker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/5_statuschecker_queues.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T2/5_statuschecker_queues.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/5_statuschecker_queues.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/5_statuschecker_queues.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/6_statuschecker_events.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T2/6_statuschecker_events.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2/6_statuschecker_events.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2/6_statuschecker_events.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T3/T3_TCP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T3/T3_TCP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T3/T3_udp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T3/T3_udp.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T3/TCP_Folder/app-client.py" beforeDir="false" afterPath="$PROJECT_DIR$/T3/TCP_Folder/app-client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T3/TCP_Folder/app-server.py" beforeDir="false" afterPath="$PROJECT_DIR$/T3/TCP_Folder/app-server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T3/TCP_Folder/echo-client.py" beforeDir="false" afterPath="$PROJECT_DIR$/T3/TCP_Folder/echo-client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T3/TCP_Folder/echo-server.py" beforeDir="false" afterPath="$PROJECT_DIR$/T3/TCP_Folder/echo-server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T3/TCP_Folder/libclient.py" beforeDir="false" afterPath="$PROJECT_DIR$/T3/TCP_Folder/libclient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T3/TCP_Folder/libserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/T3/TCP_Folder/libserver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T3/TCP_Folder/multiconn-client.py" beforeDir="false" afterPath="$PROJECT_DIR$/T3/TCP_Folder/multiconn-client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T3/TCP_Folder/multiconn-server.py" beforeDir="false" afterPath="$PROJECT_DIR$/T3/TCP_Folder/multiconn-server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T4/T4_http_ftp_imap_pop3_irc_etc.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T4/T4_http_ftp_imap_pop3_irc_etc.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T4/T4_servicios_web.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/T4/T4_servicios_web.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat.protocol" beforeDir="false" afterPath="$PROJECT_DIR$/chat.protocol" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2WF7cQRYRDkPTWNOldwRfALCUaa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Jorge Esteban/Documents/GS_DAM/SEGUNDO/PSP/T0 Python",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53d160e5-552f-4fd9-8484-317e87d28ae0" name="Changes" comment="" />
+      <created>1696316557170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696316557170</updated>
+      <workItem from="1696316558075" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

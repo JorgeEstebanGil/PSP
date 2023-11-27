@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3afe7bf-7043-48ec-bab0-b75ca33d4671" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/00-Python Object and Data Structure Basics/01-Variable Assignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/00-Python Object and Data Structure Basics/01-Variable Assignment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Methods and Functions/06-Nested Statements and Scope.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03-Methods and Functions/06-Nested Statements and Scope.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Object Oriented Programming/01-Object Oriented Programming.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/05-Object Oriented Programming/01-Object Oriented Programming.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2WF7koVg1Kne2H1nMM0tJ4DPuzs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Jorge Esteban/Documents/GS_DAM/SEGUNDO/PSP/T0 Python",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3afe7bf-7043-48ec-bab0-b75ca33d4671" name="Changes" comment="" />
+      <created>1696316619981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696316619981</updated>
+      <workItem from="1696316621007" duration="281000" />
+      <workItem from="1696316920017" duration="274000" />
+      <workItem from="1696318815316" duration="228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
