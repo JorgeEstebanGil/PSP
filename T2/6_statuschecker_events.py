@@ -14,15 +14,6 @@ class StatusChecker(threading.Thread):
     The thread that will check HTTP statuses.
     """
 
-    #: The queue of urls
-    url_queue = None
-
-    #: The queue our results will go into
-    result_queue = None
-
-    #: An event that tells the thread to stop
-    stopper = None
-
     def __init__(self, url_queue, result_queue, stopper):
         super().__init__()
         self.url_queue = url_queue
@@ -47,12 +38,6 @@ class SignalHandler:
     """
     The object that will handle signals and stop the worker threads.
     """
-
-    #: The stop event that's shared by this handler and threads.
-    stopper = None
-
-    #: The pool of worker threads
-    workers = None
 
     def __init__(self, stopper, workers):
         self.stopper = stopper
